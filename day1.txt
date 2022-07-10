@@ -1,0 +1,3 @@
+Function in C
+
+return_type function_name()
